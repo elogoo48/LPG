@@ -10,3 +10,6 @@ h1{
 .ph2{
     float: right;
 }
+.p2, .p3, .p4, .p5, .p6{
+    text-align: center;
+}
