@@ -104,7 +104,7 @@ nav ul li a{
   text-decoration: none;
 }
 nav ul li a:hover, nav ul li a.active{
-  color: #BA8658;
+  color: #f7c075;
 }
 nav ul ul{
   position: absolute;
